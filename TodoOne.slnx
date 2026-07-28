@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TodoOne.Tests/TodoOne.Tests.csproj" />
+    <Project Path="src/TodoOne/TodoOne.csproj" />
+  </Folder>
+</Solution>
