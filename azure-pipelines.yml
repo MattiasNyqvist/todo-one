@@ -14,7 +14,7 @@ variables:
   projectPath: 'src/TodoOne/TodoOne.csproj'
   testProjectPath: 'src/TodoOne.Tests/TodoOne.Tests.csproj'
   azureServiceConnection: 'azure-todo-one'
-  webAppName: 'app-todo-one-mn'
+  webAppName: 'app-todo-one'
 
 stages:
   - stage: Build
