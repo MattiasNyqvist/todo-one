@@ -42,7 +42,9 @@ stages:
             displayName: 'Build'
             inputs:
               command: 'build'
-              projects: '$(projectPath)'
+              projects: |
+                $(projectPath)
+                $(testProjectPath)
               arguments: '--configuration $(buildConfiguration) --no-restore'
 
           - task: DotNetCoreCLI@2
