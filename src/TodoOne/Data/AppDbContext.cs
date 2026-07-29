@@ -1,6 +1,14 @@
-﻿namespace TodoOne;
+﻿using Microsoft.EntityFrameworkCore;
+using TodoOne.Models;
 
-public class AppDbContext
+namespace TodoOne.Data;
+
+public class AppDbContext : DbContext
 {
+    public AppDbContext(DbContextOptions<AppDbContext> options)
+        : base(options)
+    {
+    }
 
+    public DbSet<Todo> Todos => Set<Todo>();
 }
