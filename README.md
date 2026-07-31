@@ -8,11 +8,11 @@ The point of this repository is not the application. It is the path from an empt
 
 | Part | What it covers |
 | --- | --- |
-| [Part 1 — Set up the environment](/blog/from-zero-to-azure-part-one) | Tools, accounts, Azure SQL database |
-| [Part 2 — Keep an eye on costs](/blog/from-zero-to-azure-part-two) | Budgets, cost alerts, anomaly detection |
-| [Part 3 — Build the app](/blog/from-zero-to-azure-part-three) | This repository, from empty folder to running locally |
-| [Part 4 — Set up the services](/blog/from-zero-to-azure-part-four) | GitHub, Azure App Service, Azure DevOps |
-| [Part 5 — Build the pipeline](/blog/from-zero-to-azure-part-five) | YAML pipeline, PR validation, deployment |
+| [Part 1 — Set up the environment](https://www.nyqvist.net/blog/from-zero-to-azure-part-one/) | Tools, accounts, Azure SQL database |
+| [Part 2 — Keep an eye on costs](https://www.nyqvist.net/blog/from-zero-to-azure-part-two/) | Budgets, cost alerts, anomaly detection |
+| [Part 3 — Build the app](https://www.nyqvist.net/blog/from-zero-to-azure-part-two/) | This repository, from empty folder to running locally |
+| [Part 4 — Set up the services](https://www.nyqvist.net/blog/from-zero-to-azure-part-four/) | GitHub, Azure App Service, Azure DevOps |
+| [Part 5 — Build the pipeline](https://www.nyqvist.net/blog/from-zero-to-azure-part-five/) | YAML pipeline, PR validation, deployment |
 
 Written in Swedish. Code, comments and resource names are in English.
 
